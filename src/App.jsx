@@ -14,6 +14,7 @@ function App() {
       <BrowserRouter>
         <Layout style={{ minHeight: "100vh" }}>
           {/* Navbar */}
+          {/* done */}
           <Header style={{ background: "#000" }}>
             <Menu
               theme="dark"
